@@ -13,7 +13,7 @@ Berikut adalah langkah-langkah untuk melakukan cloning (pengunduhan) repository 
 git clone https://github.com/nama_pengguna/nama_repo.git
 ```
 
-setelah clone masuk ek directory qwords dan jalankan perintah composer install
+setelah clone masuk ke directory qwords dan jalankan perintah composer install
 
 ```bash
 composer install
